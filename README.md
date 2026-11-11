@@ -463,4 +463,24 @@ Review the destruction plan and confirm when prompted.
 \*\*Project focus:\*\* AWS Infrastructure, Cloud Support, Linux Administration, Monitoring, and DevOps.
 
 
+## 11. Project Screenshots
+
+### Application Homepage
+![Application Homepage](screenshots/01-application-homepage.png)
+
+### Application Health Check
+![Health Check](screenshots/02-health-check.png)
+
+### Healthy Load Balancer Targets
+![Healthy Targets](screenshots/03-healthy-targets.png)
+
+### Auto Scaling Instance Replacement
+![ASG Replacement](screenshots/04-asg-replacement.png)
+
+### Linux systemd Recovery
+![systemd Recovery](screenshots/05-systemd-recovery.png)
+
+### SNS Email Notification
+![SNS Notification](screenshots/06-sns-notification.png)
+
 
